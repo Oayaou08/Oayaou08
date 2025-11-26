@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey! I'm Omar
 
-<!--
-**Oayaou08/Oayaou08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Developer and SMX Student
+💻 Passionate about programming, web interfaces, and creating functional and polished projects.
 
-Here are some ideas to get you started:
+🚀 Always learning, experimenting, and improving my skills to become an increasingly well-rounded developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technologies and Skills
+
+🌐 HTML & CSS – web layout, modern styles, responsive designs
+
+🛠️ Website Creation – static pages, clean structure
+
+📦 Git & GitHub – version control, branches, pull requests
+
+🔧 Programming Fundamentals – logic, scripts, best practices
+
+(Coming soon: JS, Python, frameworks, and more…)
+
+## 📌 About Me
+
+I love creating projects that look professional and work well. I'm a team player, I adapt quickly, and I enjoy learning new technologies. My goal is to continue growing as a developer and contribute real solutions.
+
+## 📊 GitHub Stats
+⭐ My repositories and stars
+
+## 👉Visit my projects:
+github.com/Oayao08
+
+## 📈 Activity and languages
+
+## ⚡ Recent activity
+
+💪 Opened PR #86192 on vercel/next.js
+
+💪 Opened PR #86191 on vercel/next.js
+
+💪 Opened PR #145 on Yaseer123/packet_bd
+
+💪 Opened PR #144 on Yaseer123/packet_bd
+
+🗣 Commented on #4506 on software-mansion/react-native-reanimated
