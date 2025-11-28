@@ -5,7 +5,7 @@
 
 🚀 Always learning, experimenting, and improving my skills to become an increasingly well-rounded developer.
 
-## 🧠  Technologies and Skills
+## 🧠 Technologies and Skills
 
 🌐 HTML & CSS – web layout, modern styles, responsive designs
 
@@ -29,7 +29,7 @@ github.com/Oayao08
 
 ## 📈 Activity and languages
 
-## ⚡ Recent activity
+## ⚡  R ecent activity
 
 💪 Opened PR #86192 on vercel/next.js
 
