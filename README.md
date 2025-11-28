@@ -29,7 +29,7 @@ github.com/Oayao08
 
 ## 📈 Activity and languages
 
-## ⚡  R ecent activity
+## ⚡ Recent activity
 
 💪 Opened PR #86192 on vercel/next.js
 
