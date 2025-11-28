@@ -5,7 +5,7 @@
 
 🚀 Always learning, experimenting, and improving my skills to become an increasingly well-rounded developer.
 
-## 🧠 Technologies and Skills
+## 🧠  Technologies and Skills
 
 🌐 HTML & CSS – web layout, modern styles, responsive designs
 
